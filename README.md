@@ -35,6 +35,8 @@ Practitioners who enumerate DNS records and zones for authorized domains.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-enum` | Standard enumeration: records, wildcards, and zone walks |
